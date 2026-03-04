@@ -1,0 +1,71 @@
+this Privacy Policy describes how Finance Flow AI ("the App", "we", "us", or "our") handles your information. We are committed to protecting your privacy and ensuring your personal data remains secure.
+
+Summary: Finance Flow AI is an offline-first budget tracking app. All your financial data is stored locally on your device. We do not collect, transmit, or share any personal data.
+
+1. Information We Collect
+We do not collect any personal information.
+
+All data you enter into the App, including but not limited to:
+
+Transaction records (income, expenses, transfers)
+Budget categories and limits
+Financial goals
+Account information
+Bill reminders
+Notes and descriptions
+is stored exclusively on your device using a local database. This data never leaves your device and is not accessible to us or any third party.
+
+2. Data Storage
+All your financial data is stored locally on your device using Android's built-in storage mechanisms:
+
+Local Database: Your transactions, budgets, goals, and accounts are stored in a local database on your device.
+Preferences: Your app settings and preferences are stored locally using Android DataStore.
+We do not use cloud storage, remote servers, or any external databases to store your data.
+
+3. Permissions
+The App may request the following device permissions:
+
+Camera: Used only if you choose to scan receipts or attach photos to transactions. Images are stored locally on your device.
+Biometric Authentication: Used to secure app access with your fingerprint or face recognition. Biometric data is handled entirely by your device's operating system and is never accessible to the App.
+Notifications: Used to send you local bill reminders and financial alerts that you configure. No push notifications are sent from external servers.
+Storage: Used to export reports or backup data when you explicitly choose to do so.
+Internet: The App may include internet permission for future feature updates. Currently, no user data is transmitted over the internet.
+4. Data Sharing
+We do not share your data with anyone.
+
+Since all data is stored locally on your device, there is no data to share. We do not:
+
+Sell your personal information
+Share data with third parties
+Use advertising networks or tracking services
+Collect analytics or usage statistics
+Use any third-party SDKs that collect data
+5. Data Security
+We take the security of your data seriously:
+
+All data is stored locally on your device and protected by your device's built-in security.
+The App supports biometric authentication (fingerprint/face) for an additional layer of security.
+No data is transmitted over the internet, eliminating the risk of data interception.
+6. Data Retention and Deletion
+Your data remains on your device for as long as you use the App. You can delete your data at any time by:
+
+Using the in-app delete functions for individual records
+Clearing the App's data through your device settings
+Uninstalling the App (this permanently removes all app data from your device)
+7. Children's Privacy
+The App is not directed at children under 13 years of age. We do not knowingly collect any information from children. Since the App does not collect any data at all, there is no risk of collecting children's data.
+
+8. Third-Party Services
+The App does not integrate with any third-party services that collect user data. There are no:
+
+Analytics tools (e.g., Google Analytics, Firebase Analytics)
+Advertising networks
+Social media integrations
+Crash reporting services that collect personal data
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated "Last updated" date. We encourage you to review this Privacy Policy periodically.
+
+10. Contact Us
+If you have any questions or concerns about this Privacy Policy or the App's practices, please contact us at:
+
+Email: johnpaul83090@gmail.com
