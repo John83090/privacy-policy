@@ -1,0 +1,155 @@
+---
+
+# Holy Bible App – KJV, Audio & Daily Verse
+## Privacy Policy
+
+**Package:** com.biblewise.app
+**Effective Date:** March 14, 2026
+
+---
+
+### 1. Introduction
+
+Welcome to Holy Bible App – KJV, Audio & Daily Verse ("the App", "we", "our", or "us"). We are committed to protecting your privacy and being transparent about how your information is handled. This Privacy Policy explains what data we collect, why we collect it, how it is used, and the choices you have regarding your information.
+
+By downloading, installing, or using the App, you agree to the terms of this Privacy Policy. If you do not agree, please do not use the App.
+
+---
+
+### 2. Information We Collect
+
+We collect only the minimum information necessary to provide a functional and personalized Bible study experience.
+
+**2.1 Information You Provide Directly**
+- Personal notes, bookmarks, highlights, and prayer journal entries you create within the App (stored locally on your device).
+- Reading plan progress and verse memory practice data.
+- Bible Quiz scores and performance history.
+- App settings and preferences (e.g., font size, theme, notification time).
+
+**2.2 Information Collected Automatically**
+- Device identifiers (e.g., Android Advertising ID) used solely for analytics and advertising purposes.
+- App usage data (e.g., screens visited, features used, session duration) collected in aggregate, anonymized form.
+- Crash reports and diagnostic data to improve App stability.
+- Internet connectivity status to determine online/offline reading mode.
+
+**2.3 Information We Do NOT Collect**
+- We do not collect your name, email address, or any account credentials.
+- We do not require account registration to use the App.
+- We do not access your contacts, camera, microphone, or location.
+- We do not store your personal data on our servers.
+
+---
+
+### 3. How We Use Your Information
+
+We use the information collected for the following purposes:
+- To provide and operate the App and its features (Bible reading, Audio Bible, Daily Verse, Reading Plans, Search, etc.).
+- To save your personal study data (bookmarks, highlights, notes, prayer requests) locally on your device.
+- To send Daily Verse and Reading Plan reminder notifications (only if you grant notification permission).
+- To analyze usage patterns in aggregate to improve App features and user experience.
+- To display advertisements through third-party ad networks (see Section 6).
+- To investigate and resolve technical issues and crashes.
+
+---
+
+### 4. Data Storage & Security
+
+All personal study data — including your notes, bookmarks, highlights, prayer journal entries, and reading progress — is stored exclusively on your local device using Android's Room database. This data is never transmitted to our servers.
+
+We implement reasonable technical and organizational security measures to protect any data processed by the App. However, no method of electronic storage or transmission is 100% secure, and we cannot guarantee absolute security.
+
+If you uninstall the App, all locally stored data will be permanently deleted from your device unless you back it up through Android's built-in backup mechanisms.
+
+---
+
+### 5. Notifications
+
+The App may request permission to send push notifications for:
+- Daily Verse reminders at a time you configure.
+- Reading Plan progress reminders.
+
+You can enable or disable notifications at any time through your device's Settings → Apps → Holy Bible App → Notifications. Revoking notification permission does not affect your ability to use any other App features.
+
+---
+
+### 6. Third-Party Services & Advertising
+
+**6.1 Google AdMob**
+The App may display advertisements provided by Google AdMob. AdMob may collect and use your Advertising ID and other device information to serve personalized or non-personalized ads. AdMob's data practices are governed by Google's Privacy Policy, available at https://policies.google.com/privacy.
+
+**6.2 Bible API (bible-api.com)**
+The App may make requests to bible-api.com to fetch Bible verse text when an internet connection is available. These requests do not include any personally identifiable information.
+
+**6.3 Android WorkManager & DataStore**
+These are Android system libraries used to schedule notifications and store preferences locally. They do not transmit data externally.
+
+We do not sell your personal information to third parties. We do not share personal data with any third party except as described in this policy.
+
+---
+
+### 7. Children's Privacy
+
+The App is appropriate for users of all ages and is designed to be family-friendly. We do not knowingly collect personally identifiable information from children under the age of 13. The App does not require account creation and does not collect personal data beyond device-level analytics described in Section 2.
+
+If you are a parent or guardian and believe your child has provided personal information through the App, please contact us at the email address below so we can take appropriate action.
+
+---
+
+### 8. App Permissions
+
+The App requests the following Android permissions and uses them only for the stated purposes:
+- **INTERNET** – To fetch Bible verse text from online sources when available.
+- **ACCESS_NETWORK_STATE** – To detect whether an internet connection is available.
+- **POST_NOTIFICATIONS** – To send Daily Verse and Reading Plan reminders (Android 13+).
+- **RECEIVE_BOOT_COMPLETED** – To reschedule daily notifications after device restart.
+- **WAKE_LOCK** – To ensure audio playback continues uninterrupted in the Audio Bible feature.
+- **FOREGROUND_SERVICE / FOREGROUND_SERVICE_MEDIA_PLAYBACK** – To run the Audio Bible player in the background.
+- **VIBRATE** – To support notification vibration.
+- **USE_BIOMETRIC / USE_FINGERPRINT** – For optional biometric lock on the App (if enabled by user).
+
+No permissions are used for purposes beyond what is described above.
+
+---
+
+### 9. Your Choices & Rights
+
+You have the following choices regarding your data:
+- **Access & Export** – Your notes, bookmarks, and highlights are stored on your device and accessible through the App at any time.
+- **Delete** – You can delete individual items (notes, bookmarks, etc.) within the App, or uninstall the App to remove all locally stored data.
+- **Notifications** – Enable or disable notifications through your device settings.
+- **Advertising ID** – You can reset or opt out of personalized ads through your device Settings → Google → Ads.
+- **Analytics** – Aggregate, anonymized analytics data cannot be linked back to you individually.
+
+---
+
+### 10. Data Retention
+
+All data stored by the App resides locally on your device and is retained until you delete it within the App or uninstall the App. Aggregate analytics data collected by third-party services is governed by their respective retention policies.
+
+---
+
+### 11. International Users
+
+The App is available globally. If you are located outside the country where the App is operated, please be aware that data processed by third-party services (e.g., Google AdMob) may be transferred to and processed in other countries. By using the App, you consent to such transfers to the extent applicable under your local law.
+
+---
+
+### 12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. When we do, we will update the "Effective Date" at the top of this document and publish the revised policy on our Play Store listing. We encourage you to review this policy periodically. Continued use of the App after any changes constitutes your acceptance of the updated policy.
+
+---
+
+### 13. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
+ranjithdaramalla@gmail.com
+
+**Holy Bible App – KJV, Audio & Daily Verse**
+Google Play: com.biblewise.app
+
+We will respond to all inquiries within 30 days.
+
+---
+
+*This Privacy Policy was last updated on March 14, 2026.* 
