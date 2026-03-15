@@ -1,0 +1,89 @@
+Privacy Policy
+
+Last updated: March 15, 2026
+
+Ranjith ("we", "us", or "our") built the Step Counter – Pedometer & Walk Tracker app (package: com.ranjith.stepcounter) as a free application. This Privacy Policy explains what information is collected, how it is used, and your rights regarding that information.
+
+1. Information We Collect
+
+Information you provide:
+
+Your name (optional, used only for in-app personalization)
+Body metrics you enter: weight, height, age, gender
+Daily step goal you set
+Information collected automatically:
+
+Step count data via your device's built-in step counter or accelerometer sensor
+Calculated health metrics derived from your steps: calories burned, distance walked, active minutes
+Hourly step breakdown for activity charts
+App usage preferences and settings (distance unit, notification preferences, etc.)
+2. How We Use Your Information
+
+All collected data is used solely to provide the app's core functionality:
+
+Counting and displaying your daily, weekly, and historical steps
+Calculating calories, distance, and active minutes based on your body metrics
+Showing your step history, streaks, and progress toward your daily goal
+Sending local step-tracking notifications while the service is running
+We do not use your data for advertising, analytics, or any other purpose.
+
+3. Data Storage
+
+All data is stored locally on your device only. We do not operate any servers, databases, or cloud services. Your step data, health metrics, and personal information never leave your device. No internet connection is required or used by this app.
+
+4. Data Sharing
+
+We do not sell, trade, rent, or share your personal information with any third party. There are no third-party SDKs, advertising networks, analytics services, or crash reporting tools integrated into this app.
+
+5. Permissions Used
+
+This app requests the following device permissions:
+
+Permission	Purpose
+ACTIVITY_RECOGNITION	Required to access the device's step counter and step detector sensors
+FOREGROUND_SERVICE / FOREGROUND_SERVICE_HEALTH	Allows step counting to continue in the background while the app is not open
+POST_NOTIFICATIONS	Shows a persistent notification with your step count while tracking is active
+RECEIVE_BOOT_COMPLETED	Automatically restarts step tracking after the device is rebooted (if enabled)
+WAKE_LOCK	Prevents the device processor from sleeping while step counting is active
+HIGH_SAMPLING_RATE_SENSORS	Enables accurate step detection using high-frequency sensor data
+REQUEST_IGNORE_BATTERY_OPTIMIZATIONS	Requests exclusion from battery optimization to maintain reliable background tracking
+SCHEDULE_EXACT_ALARM	Schedules precise start/stop times for automatic step tracking sessions
+USE_BIOMETRIC / USE_FINGERPRINT	Optional: used to lock/unlock the app with biometric authentication
+VIBRATE	Used for haptic feedback on goal achievement notifications
+None of these permissions are used to collect data beyond what is described in Section 1.
+
+6. Health Data
+
+Step count and derived health metrics (calories, distance) are considered health-related data. This data:
+
+Is stored exclusively on your device
+Is never transmitted to us or any third party
+Is used only to display your personal fitness progress within the app
+Can be permanently deleted at any time by you (see Section 8)
+7. Children's Privacy
+
+This app does not knowingly collect personal information from children under the age of 13. The app does not contain features directed at children. If you believe a child has provided personal information through this app, please contact us so we can address the situation.
+
+8. Your Rights & Data Deletion
+
+You have full control over your data at all times:
+
+View your data: All data is visible within the app (History, Profile, and Settings screens)
+Delete specific records: Use the Reset or Delete options within the app
+Delete all data: Go to your device's Settings → Apps → Step Counter → Storage → Clear Data
+Complete removal: Uninstalling the app permanently removes all stored data from your device
+Since all data is local to your device, there is no account to delete or server-side data to request removal of.
+
+9. Security
+
+All data is stored in the app's private internal storage on your device, which is protected by Android's built-in application sandboxing. Other apps cannot access your step data. Optional biometric lock adds an additional layer of protection.
+
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by an updated "Last updated" date at the top of this policy. We encourage you to review this policy periodically.
+
+11. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+
+Email: ranjithdaramalla@gmail.com
