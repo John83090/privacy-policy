@@ -1,0 +1,55 @@
+This Privacy Policy describes how Wallet GO: Expense Tracker ("we", "our", or "the App") handles your information. We are committed to protecting your privacy and being transparent about our practices.
+
+1. Information We Collect
+
+Wallet GO is designed with a privacy-first approach. All your financial data is stored locally on your device only.
+
+Financial Data: Transactions, budgets, goals, accounts, and bills you create are stored exclusively in a local database on your device. This data is never transmitted to any server.
+Preferences: App settings such as currency selection, theme preference, biometric lock preference, and profile name are stored locally on your device using Android DataStore.
+Biometric Data: If you enable biometric lock, authentication is handled entirely by your device's operating system. We do not access, collect, or store any biometric data.
+2. Information We Do NOT Collect
+
+We do not collect personal identification information (name, email, phone number)
+We do not collect or access your bank account, credit card, or any real financial account information
+We do not track your location
+We do not use analytics or tracking SDKs
+We do not transmit any of your data to external servers
+We do not share, sell, or rent your data to any third party
+We do not display personalized or behavioral advertisements
+3. Data Storage and Security
+
+All data is stored locally in an encrypted SQLite database on your device.
+The App supports biometric authentication (fingerprint/face unlock) as an additional layer of security, using Android's BiometricPrompt API.
+Your data remains on your device and is protected by your device's built-in security features.
+4. Permissions
+
+The App may request the following permissions:
+
+Biometric / Fingerprint: To enable optional app lock via biometric authentication.
+Notifications: To send bill payment reminders that you configure.
+Camera: For potential future receipt scanning features (not used to collect data).
+Internet: Required for potential future cloud backup features. Currently, no data is transmitted over the internet.
+Boot Completed: To reschedule bill reminders after device restart.
+5. Data Retention and Deletion
+
+Your data persists on your device for as long as the App is installed.
+You can delete individual transactions, budgets, goals, accounts, or bills at any time from within the App.
+Uninstalling the App permanently deletes all associated data from your device.
+You can clear all app data at any time via Android Settings > Apps > Wallet GO > Clear Data.
+6. Children's Privacy
+
+Wallet GO is a general-purpose expense tracking tool. We do not knowingly collect any personal information from children under 13. The App does not require account creation or any personal information to function.
+
+7. Third-Party Services
+
+Wallet GO does not integrate with any third-party analytics, advertising, or data collection services. The App operates entirely offline and independently.
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last updated" date at the top of this page.
+
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: ranjithdaramalla@gmail.com
