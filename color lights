@@ -1,0 +1,43 @@
+Privacy Policy for Flash Screen: Disco Lights
+
+Last updated: March 6, 2026
+
+Developer: Ranjith
+Package: com.ranjith.flashscreen.discolights
+
+Information We Collect
+
+Flash Screen: Disco Lights does not collect, store, or transmit any personal data. The app operates entirely offline on your device.
+
+Permissions Used
+
+The app requests the following permissions solely for core functionality:
+
+Microphone (RECORD_AUDIO): Used only for the Sound Reactive mode to detect audio beats in real-time. Audio is processed locally on your device and is never recorded, stored, or transmitted.
+Camera/Flashlight: Used only to control the device's rear LED flash in LED Light mode. No photos or videos are captured.
+Wake Lock: Keeps the screen active during light shows to prevent the display from turning off.
+Notifications: Used only to show a persistent notification when the flash service runs in the background, allowing you to stop it easily.
+Data Storage
+
+The app stores your preferences (selected mode, speed, colors, settings) locally on your device using Android DataStore. This data never leaves your device and is not accessible to us or any third party.
+
+Third-Party Services
+
+Flash Screen does not integrate any third-party analytics, advertising, tracking, or data collection services. The app contains no ads in its current version.
+
+Children's Privacy
+
+This app is not specifically directed at children under 13. The app contains an epilepsy warning due to flashing light content and is intended for general audiences.
+
+Data Sharing
+
+We do not share any data with third parties because we do not collect any data.
+
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be reflected by updating the "Last updated" date above.
+
+Contact Us
+
+If you have questions about this Privacy Policy, please contact us at:
+Email: ranjithdaramalla@gmail.com
