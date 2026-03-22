@@ -1,0 +1,85 @@
+
+
+Privacy Policy for MathGrid: Cross Number Puzzle
+
+Last updated: March 22, 2026
+
+1. Introduction
+
+MathGrid: Cross Number Puzzle ("we," "our," or "the App") is developed and maintained by [Your Name/Company Name]. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
+
+2. Information We Collect
+
+2.1 Information We Do NOT Collect
+
+We do not collect personal identification information (name, email, phone number, address)
+We do not require account registration or login
+We do not access your contacts, camera, microphone, or location
+We do not collect payment or financial information
+2.2 Locally Stored Data
+The App stores the following data locally on your device only:
+
+Game progress (levels completed, scores, stars earned)
+Player preferences (sound settings, theme, difficulty)
+Game statistics (games played, streaks, best scores)
+Daily challenge completion status
+This data is stored using Android DataStore and Room Database and never leaves your device. If you uninstall the App, all locally stored data is permanently deleted.
+
+2.3 Advertising Data
+The App may display advertisements through Google AdMob. AdMob may collect:
+
+Advertising ID (can be reset or opted out in device settings)
+General device information (device model, OS version)
+General location data (country/region level, not precise location)
+Ad interaction data (impressions, clicks)
+For more information about how Google uses data, please visit: https://policies.google.com/privacy
+
+3. How We Use Information
+
+Locally stored game data is used solely to save your progress and provide a personalized gaming experience
+Advertising data is used by third-party ad networks to serve relevant advertisements
+4. Data Sharing
+
+We do not sell, trade, or share your personal data with third parties
+We do not transmit any game data to external servers
+Ad-related data is handled by Google AdMob in accordance with their privacy policy
+5. Children's Privacy
+
+MathGrid is suitable for all ages. We do not knowingly collect personal information from children under 13 (or the applicable age in your jurisdiction). The App does not require any personal information to function. If you are a parent or guardian and believe your child has provided personal information, please contact us so we can take appropriate action.
+
+6. Data Security
+
+All game data is stored locally on your device and protected by Android's built-in security mechanisms. Since we do not collect or transmit personal data to external servers, the risk of data breach is minimal.
+
+7. Permissions
+
+The App requests only the following permission:
+
+VIBRATE: Used for haptic feedback during gameplay (can be disabled in Settings)
+INTERNET: Used solely for displaying advertisements
+The App does not request access to your contacts, storage, camera, location, or any other sensitive permissions.
+
+8. Third-Party Services
+
+The App may use the following third-party services:
+
+Google AdMob — for displaying advertisements
+Google Play Services — for app distribution
+Each third-party service has its own privacy policy governing the use of information.
+
+9. Your Rights
+
+You have the right to:
+
+Clear all App data through your device's Settings > Apps > MathGrid > Clear Data
+Reset your Advertising ID or opt out of personalized ads through your device settings
+Uninstall the App at any time, which permanently removes all locally stored data
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last updated" date at the top of this policy. We encourage you to review this Privacy Policy periodically.
+
+11. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: ranjithdaramalla@gmail.com
